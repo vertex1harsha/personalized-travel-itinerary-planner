@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.env
+.env.local
+backend/.env
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/trips.db
+*.db
+.DS_Store
